@@ -2201,5 +2201,17 @@
       "text-color": "#fff",
       "text-halo-color": "@text2_stroke_night"
     }
-  }]
+  },
+
+{
+    "id": "unconnected_major",
+    "type": "symbol",
+    "source": "mapbox",
+    "source-layer": "unconnected_major",
+    "minzoom": 10,
+    "layout": {
+      "icon-image": "circle-12"
+    }
+  }
+  ]
 }
