@@ -2204,11 +2204,11 @@
   },
 
 {
-    "id": "unconnected_major",
+    "id": "unconnected-major",
     "type": "symbol",
     "source": "mapbox",
-    "source-layer": "unconnected_major",
-    "minzoom": 10,
+    "source-layer": "unconnected-major",
+    "minzoom": 5,
     "layout": {
       "icon-image": "circle-12"
     }
