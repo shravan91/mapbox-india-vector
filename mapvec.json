@@ -2210,7 +2210,7 @@
     "source-layer": "unconnected_major",
     "minzoom": 5,
     "layout": {
-      "icon-image": "circle",
+      "icon-image": "circle-50",
       "icon-allow-overlap":"true",
       "icon-size":50
     }
