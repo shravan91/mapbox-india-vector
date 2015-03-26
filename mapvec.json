@@ -2212,7 +2212,7 @@
     "layout": {
       "icon-image": "circle-12",
       "icon-allow-overlap":"true",
-      "icon-size":"20-{highwaykey}"
+      "icon-size":"20"
     }
   }
   ]
