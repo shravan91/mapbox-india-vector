@@ -6,7 +6,7 @@
     "@sans_lt": "Open Sans Regular, Arial Unicode MS Regular, Arial Unicode MS Bold",
     "@sans": "Open Sans Semibold, Arial Unicode MS Bold",
     "@sans_italic": "Open Sans Semibold Italic, Arial Unicode MS Bold",
-    "@land": "red",
+    "@land": "white",
     "@water": "#cdd",
     "@water_dark": "#185869",
     "@crop": "#eeeed4",
@@ -2207,7 +2207,7 @@
     "id": "unconnected-major",
     "type": "symbol",
     "source": "mapbox",
-    "source-layer": "unconnected-major",
+    "source-layer": "unconnected_major",
     "minzoom": 5,
     "layout": {
       "icon-image": "circle-12"
