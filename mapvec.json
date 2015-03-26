@@ -2212,7 +2212,7 @@
     "layout": {
       "icon-image": "circle-12.svg",
       "icon-allow-overlap":"true",
-      "icon-size":50
+      "icon-size":20
     }
   }
   ]
