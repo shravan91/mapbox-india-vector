@@ -2210,9 +2210,9 @@
     "source-layer": "unconnected_major",
     "minzoom": 5,
     "layout": {
-      "icon-image": "circle-12.svg",
+      "icon-image": "circle-12",
       "icon-allow-overlap":"true",
-      
+     
     }
   }
   ]
