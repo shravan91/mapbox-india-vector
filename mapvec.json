@@ -2211,7 +2211,8 @@
     "minzoom": 5,
     "layout": {
       "icon-image": "circle-12",
-      "icon-allow-overlap":"true"
+      "icon-allow-overlap":"true",
+      "icon-size":"20-{highwaykey}"
     }
   }
   ]
