@@ -2208,7 +2208,7 @@
     "type": "symbol",
     "source": "mapbox",
     "source-layer": "unconnected_major",
-    "minzoom": 5,
+    "minzoom": 1,
     "layout": {
       "icon-image": "circle-12",
       "icon-allow-overlap":"true"
